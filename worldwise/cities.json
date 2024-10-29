@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "cef4",
+      "cityName": "Isiolo",
+      "country": "Kenya",
+      "emoji": "KE",
+      "date": "2024-06-11T14:20:11.262Z",
+      "notes": "jkhkjds",
+      "position": {
+        "lat": "1.3621763466641712",
+        "lng": "38.38651959345562"
+      }
+    },
+    {
+      "id": "4af5",
+      "cityName": "Buikwe",
+      "country": "Uganda",
+      "emoji": "UG",
+      "date": "2024-06-11T14:21:00.938Z",
+      "notes": "Great Experioace",
+      "position": {
+        "lat": "0.4174767746707514",
+        "lng": "33.02504772747982"
+      }
+    },
+    {
+      "id": "7939",
+      "cityName": "Nakasongola",
+      "country": "Uganda",
+      "emoji": "UG",
+      "date": "2024-06-11T15:10:53.328Z",
+      "notes": "gjmnbm",
+      "position": {
+        "lat": "1.4829886856602814",
+        "lng": "32.24501555578532"
+      }
+    },
+    {
+      "id": "096e",
+      "cityName": "Torit",
+      "country": "South Sudan",
+      "emoji": "SS",
+      "date": "2024-06-11T15:11:04.160Z",
+      "notes": "mnn,mn,",
+      "position": {
+        "lat": "4.368320420876243",
+        "lng": "32.662197453994146"
+      }
+    },
+    {
+      "id": "8abd",
+      "cityName": "Thamud",
+      "country": "Yemen",
+      "emoji": "YE",
+      "date": "2024-06-11T15:21:36.940Z",
+      "notes": "gmhgj",
+      "position": {
+        "lat": "16.762467717941604",
+        "lng": "49.83324349294186"
+      }
+    },
+    {
+      "id": "6fc9",
+      "cityName": "Dadaab",
+      "country": "Kenya",
+      "emoji": "KE",
+      "date": "2024-10-29T17:33:52.362Z",
+      "notes": "fghjk",
+      "position": {
+        "lat": "0.023860930706767598",
+        "lng": "40.02872498077346"
+      }
+    }
+  ]
+}

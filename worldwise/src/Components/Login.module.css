@@ -1,0 +1,36 @@
+.login {
+    background-color: rgba(99, 107, 107, 0.904);
+    height: 100vh;
+}
+
+.login form {
+    border: 2px solid rgb(70, 76, 92);
+    height: 12rem;
+    width: 27rem;
+    margin-left: 30rem;
+    margin-top: 8rem;
+    padding: 19px;
+    background-color: rgb(83, 91, 112);
+    opacity: 0.8;
+}
+
+.login form div label {
+    display: block;
+    font-size: 21px;
+    color: white;
+}
+
+.login form div input {
+    width: 22rem;
+    height: 1.5rem;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 7px;
+
+}
+
+.login form button {
+    font-size: 17px;
+    padding: 6px;
+    margin: 11px 0px;
+}

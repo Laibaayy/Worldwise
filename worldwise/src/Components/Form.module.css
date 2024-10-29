@@ -1,0 +1,44 @@
+.Form {
+    color: white;
+}
+
+.Form form {
+    border: 2px solid rgb(70, 76, 92);
+    width: 26rem;
+    padding: 19px;
+    background-color: rgb(83, 91, 112);
+    opacity: 0.8;
+}
+
+.Form form div label {
+    display: block;
+    font-size: 21px;
+    color: white;
+}
+
+.Form form div input {
+    width: 22rem;
+    height: 1.5rem;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 7px;
+
+}
+
+.Form form button {
+    font-size: 17px;
+    padding: 6px;
+    margin: 11px 0px;
+}
+
+.Form form div textarea {
+    font-size: 17px;
+    padding: 6px;
+    margin: 11px 0px;
+}
+
+.btn {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 3rem;
+}

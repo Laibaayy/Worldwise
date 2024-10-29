@@ -1,0 +1,18 @@
+.nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 4rem;
+    padding: 2rem;
+}
+
+.ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 22px;
+}
+
+.justify {
+    display: flex;
+    gap: 3rem;
+}

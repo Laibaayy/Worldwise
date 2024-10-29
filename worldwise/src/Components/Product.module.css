@@ -1,0 +1,35 @@
+.product {
+    background-color: rgba(99, 107, 107, 0.904);
+    height: 100vh;
+}
+
+.product section {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.img {
+    margin-left: 2rem;
+    margin-top: 3rem;
+    width: 25rem;
+    border: 1px solid #5f5858;
+    height: 27rem;
+}
+
+.div {
+    width: 38rem;
+}
+
+.div p {
+    font-size: 20px;
+    color: white;
+
+}
+
+.div h1 {
+    font-size: 43px;
+    margin-bottom: 1rem;
+    color: white;
+}

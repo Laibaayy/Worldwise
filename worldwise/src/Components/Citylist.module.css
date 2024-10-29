@@ -1,0 +1,12 @@
+.city ul li {
+    color: white;
+    list-style: none;
+
+}
+
+.p {
+    margin-top: 4rem;
+    font-size: 19px;
+    width: 17rem;
+    margin-left: 5rem;
+}

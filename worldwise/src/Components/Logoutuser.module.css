@@ -1,0 +1,31 @@
+.logout {
+    width: 14rem;
+    position: absolute;
+    right: 3rem;
+    display: flex;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid gray;
+    padding: 5px;
+    top: 5rem;
+    z-index: 1000;
+}
+
+.logout img {
+    width: 3rem;
+    border-radius: 48px;
+}
+
+.logout button {
+    background: transparent;
+    padding: 5px;
+    border-radius: 7px;
+    margin-left: 2px;
+}
+
+.logout button:hover {
+    background-color: rgb(61, 56, 56);
+    color: white;
+    cursor: pointer;
+}

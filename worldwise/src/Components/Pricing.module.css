@@ -1,0 +1,29 @@
+.pricepage {
+    background-color: rgba(99, 107, 107, 0.904);
+    height: 100vh;
+}
+
+.pricepage section {
+    display: flex;
+    text-align: center;
+    gap: 6rem;
+    justify-content: center;
+}
+
+.pricepage section div img {
+    width: 19rem;
+}
+
+.pricepage section div p {
+    font-size: 21px;
+    width: 23rem;
+    color: white;
+}
+
+.pricepage section div h1 {
+    margin-bottom: 1rem;
+    font-size: 38px;
+    width: 20rem;
+    color: white;
+    margin-top: 5rem;
+}
